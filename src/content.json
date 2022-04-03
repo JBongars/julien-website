@@ -1,0 +1,35 @@
+{
+    "bio": {
+        "name": "Julien Bongars",
+        "dob": "26th June, 1993",
+        "languages": [
+            "English",
+            "French"
+        ],
+        "marital_status": "single",
+        "nationality": "French (Singapore PR)"
+    },
+    "skills": [
+        "Front-end Development",
+        "Back-end Development",
+        "Functional Programming",
+        "K8s Deployments",
+        "Unit/E2E Testing",
+        "Database Management",
+        "Microservice Architecture",
+        "Agile Methodologies and some DevOps"
+    ],
+    "education": [
+        {
+            "school": "Ngee Ann Polytechnic",
+            "title": "Diploma in Electronic Engineering",
+            "from": 2015,
+            "to": 2018
+        }
+    ],
+    "certificates": [
+        {
+            "title": "Murdoch University",
+        }
+    ]
+}
