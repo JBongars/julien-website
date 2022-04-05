@@ -1,0 +1,288 @@
+{
+    "subtitle": "Fullstack developer and avid technology enthusiast",
+    "bio": {
+        "name": "Julien Bongars",
+        "dob": "26th June, 1993",
+        "languages": [
+            "English",
+            "French"
+        ],
+        "marital_status": "single",
+        "nationality": "French (Singapore PR)"
+    },
+    "experience": [
+        {
+            "company": "Prudential Assurance",
+            "country": "Singapore",
+            "title": "Cloud and Site Reliability Engineer via MP",
+            "from": "2021",
+            "to": "Current",
+            "items": [
+                "Design, architecture, and automation of consumption pipelines and workflows for workload deployments on top of cloud platforms",
+                "Interact with in-country business and development teams to understand requirements and translate deliverables into self-service models",
+                "Design and develop automation solutions for manual processes that are required for troubleshooting, migrating, and deploying new resources."
+            ],
+            "tools": [
+                "Azure",
+                "GCP",
+                "Terraform",
+                "Ansible",
+                "Linux",
+                "Jenkins",
+                "Kubernetes",
+                "Docker",
+                "Python",
+                "Django"
+            ]
+        },
+        {
+            "company": "FACEBOOK INC",
+            "country": "Singapore",
+            "title": "Dataops Engineer via CE",
+            "from": "2020",
+            "to": "2021",
+            "items": [
+                "Improve the reliability, scalability, and efficiency of data pipelines across Facebook",
+                "Engineer solutions to monitor, alert and auto-remediate such as chatbots and an online dashboard",
+                "Provide on-call support for any issues that needed to be resolved manually"
+            ],
+            "tools": [
+                "PHP (Hack)",
+                "MySQL",
+                "Spark",
+                "Java",
+                "ReactJs",
+                "GraphQL",
+                "Relay",
+                "python3",
+                "Neo4J",
+                "various other internal tools at Facebook"
+            ]
+        },
+        {
+            "company": "BOOKMYSHOW",
+            "country": "Singapore",
+            "title": "Backend Developer",
+            "date": "3 months in 2020",
+            "items": [
+                "Developed CI/CD pipelines and deployment strategies using K8s and Docker ",
+                "Promote the use of Functional programming and testing best practices",
+                "Analyze, design, and refactor existing application architecture"
+            ],
+            "tools": [
+                "Typescript",
+                "NestJs",
+                "MongoDB",
+                "Jest",
+                "Kubernetes",
+                "Docker",
+                "Skaffold",
+                "Google Cloud"
+            ]
+        },
+        {
+            "company": "AXA INSURANCE",
+            "country": "Singapore",
+            "title": "Senior Full Stack Developer via Maltem",
+            "from": "2018",
+            "to": "2020",
+            "items": [
+                "Developed e-commerce websites using React and NextJs (server-side rendering)",
+                "Maintained and developed new features for in-house component libraries and backend applications.",
+                "Maintained automated tests including Mocha, Jest, Pact and Cypress.",
+                "Developed Salesforce pipelines to manage customer complaints and inquiries"
+            ],
+            "tools": [
+                "Node",
+                "Typescript",
+                "ReactJs",
+                "NextJs",
+                "MongoDB",
+                "RabbitMQ",
+                "OpenShift",
+                "Jest",
+                "Cypress",
+                "Pact",
+                "Salesforce"
+            ]
+        },
+        {
+            "company": "SINGAPORE DATA SCIENCE ACADEMY",
+            "country": "Singapore",
+            "title": "Data Science Lecturer",
+            "date": "3 months in 2018",
+            "items": [
+                "Teach methods of visualising data using pandas and matplotlib",
+                "Demonstrate approaches of statistical analysis and machine learning modelling",
+                "Engage students in in-class discussions on data science and machine learning"
+            ],
+            "tools": [
+                "Python",
+                "Jupyter Notebook",
+                "Pandas",
+                "matplotlib",
+                "numpy",
+                "scikit-learn"
+            ]
+        },
+        {
+            "company": "VOYAGER INNOVATION",
+            "country": "Singapore",
+            "title": "Platform Engineer PHP/Laravel",
+            "from": "2017",
+            "to": "2018",
+            "items": [
+                "Design and rebuild part of the core modules for TackThis Marketplace",
+                "Used Agile methodologies to coordinate meetings with various actors",
+                "Build efficient and reusable core assets and RESTful services"
+            ],
+            "tools": [
+                "Node",
+                "AngularJS",
+                "Sass",
+                "PHP Laravel",
+                "MySQL",
+                "AWS services",
+                "Grunt"
+            ]
+        },
+        {
+            "company": "HONAN INSURANCE",
+            "country": "Singapore",
+            "title": "Insurance Broker/ VB.NET Developer",
+            "from": "2015",
+            "to": "2017",
+            "items": [
+                "Develop automation solutions for administrative tasks using VB.NET",
+                "Provide some advice and consultation on current IT infrastructure.",
+                "Offer motor insurance solutions to personal and commercial clients"
+            ],
+            "tools": [
+                "VBA",
+                "VB",
+                "NET",
+                "C#",
+                "advanced Excel",
+                "Outlook and Word Integration"
+            ]
+        },
+        {
+            "company": "SINGAPORE ARMED FORCES",
+            "country": "Singapore",
+            "title": "Range/Field Instructor, Sergeant",
+            "from": "2012",
+            "to": "2014",
+            "items": [
+                "Led a platoon in rifle training and field combat training",
+                "Let a section of guards to patrol high security enclosures reporting to higher command every hour.",
+                "Assessed current practices for improvements in training. Assisted to pass some changes in terms of overall security and soldier welfare."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Self-service provisioning and Deployment Services",
+            "address": "Prudential internal",
+            "description": "A platform that enables our internal customers to automatically provision their own infrastructure via Git-Ops. "
+        },
+        {
+            "title": "Facebook DataOps Command Dashboard (WWW)",
+            "address": "https://www.facebook.com",
+            "description": "A dashboard used for the reporting and troubleshooting data pipelines with failed upstream dependency. "
+        },
+        {
+            "title": "Wanderlust Travel Insurance, Singapore",
+            "address": "https://www.axa.com.sg/travel-insurance",
+            "description": "An e-commerce platform for the direct sale of travel insurance"
+        },
+        {
+            "title": "Scoot Travel Insurance widget, SE Asia",
+            "address": "https://www.flyscoot.com/en",
+            "description": "A widget for selling travel insurance as part of Scoot’s online platform"
+        },
+        {
+            "title": "Insurance as a Service (AXA Insurance), SE Asia",
+            "address": "internal",
+            "description": "A Microservice Architecture acting as an interface layer between our legacy systems and our online platforms for AXA Singapore’s e-commerce platform. This included integrating with our Salesforce platform to manage customer relations"
+        },
+        {
+            "title": "TackThis, Singapore",
+            "address": "http://tackthis.com.sg/ (Closed)",
+            "description": "A custom e-commerce platform that enables small business owners to sell their product online in a custom storefront."
+        }
+    ],
+    "skills": [
+        "Front-end Development",
+        "Back-end Development",
+        "Functional Programming",
+        "K8s Deployments",
+        "Unit/E2E Testing",
+        "Database Management",
+        "Microservice Architecture",
+        "Agile Methodologies and some DevOps"
+    ],
+    "education": [
+        {
+            "school": "Ngee Ann Polytechnic",
+            "title": "Diploma in Electronic Engineering",
+            "from": 2015,
+            "to": 2018
+        }
+    ],
+    "certificates": [
+        {
+            "title": "Murdoch University",
+            "year": "2018 - 2020",
+            "description": "Various modules in Computer Science/ Cyber Security"
+        },
+        {
+            "title": "StackUp PCP",
+            "year": "2017",
+            "description": "Certificate in fullstack development taken at ISS NUS."
+        },
+        {
+            "title": "Certificate of Insurance",
+            "year": "2015",
+            "description": "Property and Casualty Insurance studies required for selling insurance in Singapore."
+        },
+        {
+            "title": "Diploma in Engineering",
+            "year": "2015",
+            "description": "Mechanical/ Electrical Engineering course at MDIS"
+        },
+        {
+            "title": "Various Udemy Certificates",
+            "items": [
+                {
+                    "title": "JAVA J2EE and JAVA SPRING"
+                },
+                {
+                    "title": "Web development using C# dotnet core"
+                },
+                {
+                    "title": "Deployment strategies for Kubernetes & Docker"
+                },
+                {
+                    "title": "Advanced concepts in JS"
+                },
+                {
+                    "title": "Business Intelligence"
+                },
+                {
+                    "title": "Data Structures and Algorithms in C++"
+                }
+            ]
+        }
+    ],
+    "society": [
+        {
+            "title": "MENSA Singapore",
+            "description": "Member since 2014"
+        }
+    ],
+    "social": {
+        "github_repository": "https://github.com/jbongars/",
+        "linkedin": "https://www.linkedin.com/in/julienbongars/"
+    },
+    "references": "available upon request"
+}
