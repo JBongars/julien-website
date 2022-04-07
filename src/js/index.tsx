@@ -1,12 +1,11 @@
 import * as React from "react";
 import { render } from "react-dom";
-import { Hello } from "./components/Hello";
+import HomePage from "./pages/Home"
 
-const App = () => {
+function App() {
     return (
         <div>
-            <p>Pagepro best react team in the world</p>
-            <Hello name="Robert" />
+            <HomePage />
         </div>
     );
 };
